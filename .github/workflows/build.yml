@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - master
-      - upcoming
+      - 1.13
   pull_request:
 
 jobs:
